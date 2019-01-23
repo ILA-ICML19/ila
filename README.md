@@ -16,4 +16,6 @@ cd imagenet_experiments
 python all_in_one.py
 ```
 
-Use proc_data.ipynb to visualize result.
+# Visualization
+
+The all_in_one.py will generate a csv file (imagenet_result.csv or result.csv); feed its filename to the proc_data.ipynb to visualize result.
